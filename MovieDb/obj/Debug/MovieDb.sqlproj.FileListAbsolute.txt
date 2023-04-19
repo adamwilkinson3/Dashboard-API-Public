@@ -1,0 +1,6 @@
+D:\coding\MovieDb\bin\Debug\MovieDb.dacpac
+D:\coding\MovieDb\bin\Debug\MovieDb.dll
+D:\coding\MovieDb\bin\Debug\MovieDb.pdb
+D:\coding\MovieDb\obj\Debug\MovieDb.sqlproj.AssemblyReference.cache
+D:\coding\MovieDb\obj\Debug\MovieDb.dll
+D:\coding\MovieDb\obj\Debug\MovieDb.pdb

@@ -1,0 +1,28 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[customer2].[active] is being dropped, data loss could occur.
+       The column [dbo].[customer2].[create_date] is being dropped, data loss could occur.
+       The column [dbo].[customer2].[email] is being dropped, data loss could occur.
+       The column [dbo].[customer2].[first_name] is being dropped, data loss could occur.
+       The column [dbo].[customer2].[last_name] is being dropped, data loss could occur.
+       The column [dbo].[customer2].[last_update] is being dropped, data loss could occur.
+
+** User actions
+     Alter
+       [dbo].[customer2] (Table)
+
+** Supporting actions
+
+The column [dbo].[customer2].[active] is being dropped, data loss could occur.
+The column [dbo].[customer2].[create_date] is being dropped, data loss could occur.
+The column [dbo].[customer2].[email] is being dropped, data loss could occur.
+The column [dbo].[customer2].[first_name] is being dropped, data loss could occur.
+The column [dbo].[customer2].[last_name] is being dropped, data loss could occur.
+The column [dbo].[customer2].[last_update] is being dropped, data loss could occur.
+

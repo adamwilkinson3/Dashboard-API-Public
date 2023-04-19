@@ -1,0 +1,18 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[customer2]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[customer2].[last_name] is being dropped, data loss could occur.
+
+** User actions
+     Table rebuild
+       [dbo].[customer2] (Table)
+
+** Supporting actions
+
+The column [dbo].[customer2].[last_name] is being dropped, data loss could occur.
+
