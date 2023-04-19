@@ -1,7 +1,7 @@
 /////////////////
 STORED PROCEDURES
 /////////////////
-
+(View file in Raw version for better layout)
 
 CREATE PROCEDURE [dbo].[spStaffAddress_Insert]
 	@first_name nvarchar(45),
