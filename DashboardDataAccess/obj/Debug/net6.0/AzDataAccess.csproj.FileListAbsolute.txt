@@ -1,0 +1,12 @@
+D:\coding\AzDataAccess\bin\Debug\net6.0\AzDataAccess.deps.json
+D:\coding\AzDataAccess\bin\Debug\net6.0\AzDataAccess.dll
+D:\coding\AzDataAccess\bin\Debug\net6.0\AzDataAccess.pdb
+D:\coding\AzDataAccess\obj\Debug\net6.0\AzDataAccess.csproj.AssemblyReference.cache
+D:\coding\AzDataAccess\obj\Debug\net6.0\AzDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\AzDataAccess\obj\Debug\net6.0\AzDataAccess.AssemblyInfoInputs.cache
+D:\coding\AzDataAccess\obj\Debug\net6.0\AzDataAccess.AssemblyInfo.cs
+D:\coding\AzDataAccess\obj\Debug\net6.0\AzDataAccess.csproj.CoreCompileInputs.cache
+D:\coding\AzDataAccess\obj\Debug\net6.0\AzDataAccess.dll
+D:\coding\AzDataAccess\obj\Debug\net6.0\refint\AzDataAccess.dll
+D:\coding\AzDataAccess\obj\Debug\net6.0\AzDataAccess.pdb
+D:\coding\AzDataAccess\obj\Debug\net6.0\ref\AzDataAccess.dll

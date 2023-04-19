@@ -1,0 +1,12 @@
+D:\coding\DashboardDataAccess\bin\Debug\net6.0\DashboardDataAccess.deps.json
+D:\coding\DashboardDataAccess\bin\Debug\net6.0\DashboardDataAccess.dll
+D:\coding\DashboardDataAccess\bin\Debug\net6.0\DashboardDataAccess.pdb
+D:\coding\DashboardDataAccess\obj\Debug\net6.0\DashboardDataAccess.csproj.AssemblyReference.cache
+D:\coding\DashboardDataAccess\obj\Debug\net6.0\DashboardDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\DashboardDataAccess\obj\Debug\net6.0\DashboardDataAccess.AssemblyInfoInputs.cache
+D:\coding\DashboardDataAccess\obj\Debug\net6.0\DashboardDataAccess.AssemblyInfo.cs
+D:\coding\DashboardDataAccess\obj\Debug\net6.0\DashboardDataAccess.csproj.CoreCompileInputs.cache
+D:\coding\DashboardDataAccess\obj\Debug\net6.0\DashboardDataAccess.dll
+D:\coding\DashboardDataAccess\obj\Debug\net6.0\refint\DashboardDataAccess.dll
+D:\coding\DashboardDataAccess\obj\Debug\net6.0\DashboardDataAccess.pdb
+D:\coding\DashboardDataAccess\obj\Debug\net6.0\ref\DashboardDataAccess.dll
